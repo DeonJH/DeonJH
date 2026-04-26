@@ -78,19 +78,9 @@ The original automation — n8n + GPT-4o-mini + Google Sheets pipeline. Replaced
 
 ## Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DeonJH&show_icons=true&hide_border=true&bg_color=020202&title_color=10b981&icon_color=10b981&text_color=f9fafb&border_radius=12" alt="Deon's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeonJH&layout=compact&hide_border=true&bg_color=020202&title_color=10b981&text_color=f9fafb&border_radius=12" alt="Top languages" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=DeonJH&hide_border=true&background=020202&ring=10b981&fire=10b981&currStreakLabel=10b981&stroke=10b981&sideNums=f9fafb&sideLabels=9ca3af&dates=9ca3af&currStreakNum=f9fafb&border_radius=12" alt="GitHub streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DeonJH&card_width=800&hide_border=true&background=020202&ring=10b981&fire=10b981&currStreakLabel=10b981&stroke=10b981&sideNums=f9fafb&sideLabels=9ca3af&dates=9ca3af&currStreakNum=f9fafb&border_radius=12" alt="GitHub streak" height="240" />
+</p>
 
 ---
 
