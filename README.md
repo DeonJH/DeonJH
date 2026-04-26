@@ -109,5 +109,4 @@ The original automation — n8n + GPT-4o-mini + Google Sheets pipeline. Replaced
   <a href="https://deonhill.dev"><img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/deon-hill"><img src="https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:Contact@deonhill.dev"><img src="https://img.shields.io/badge/Email-059669?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://calendly.com/hill-d"><img src="https://img.shields.io/badge/Calendly-059669?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly"></a>
 </p>
