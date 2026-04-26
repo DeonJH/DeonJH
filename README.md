@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Deon Hill — Engineering for Efficiency & Optimizing Workflows" src="assets/banner-dark.svg" width="100%">
+  <img alt="Deon Hill — Software that ships, scales and is maintainable." src="assets/banner-dark.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## About
 
-I build software that does what it's supposed to do, then keeps doing it. The stack changes from one project to the next (backend services, frontend apps, data pipelines, AI agents); the discipline doesn't. Most of my work lives at the seams between systems, where the engineering decisions matter more than any one framework.
+My focus is software that does what it's supposed to do, then keeps doing it. The stack shifts from project to project (backend services, data pipelines, AI agents, frontend apps), but the discipline doesn't. Across all of it, the engineering decisions matter more than any single framework. The standard is software that holds up under heavy load, stays maintainable, and follows best practices.
 
 ---
 
