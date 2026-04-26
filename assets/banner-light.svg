@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Deon Hill — Engineering for Efficiency and Optimizing Workflows">
+  <defs>
+    <linearGradient id="emerald" x1="0" y1="0" x2="1" y2="1" gradientTransform="rotate(45 0.5 0.5)">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="monogramGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="#f9fafb"/>
+  <ellipse cx="600" cy="160" rx="520" ry="180" fill="url(#glow)"/>
+
+  <g transform="translate(96 112)">
+    <rect width="96" height="96" rx="18" fill="#020202"/>
+    <text x="48" y="68" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="48" fill="url(#monogramGradient)">DH</text>
+  </g>
+
+  <text x="232" y="172" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="76" letter-spacing="-1.5" fill="url(#emerald)">Deon Hill</text>
+  <text x="232" y="220" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="26" fill="#374151">Engineering for Efficiency &amp; Optimizing Workflows</text>
+  <line x1="232" y1="240" x2="332" y2="240" stroke="url(#emerald)" stroke-width="3" stroke-linecap="round"/>
+</svg>
