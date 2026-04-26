@@ -15,7 +15,7 @@
 
 ## About
 
-Software engineering is at the core of everything I do, and a drive to learn new tools makes that foundation stronger. I stay current on machine learning, data pipelines, intelligent agents, and workflow automation — and I believe the future lies in building intelligent systems with solid engineering foundations that can understand, learn, and act autonomously to solve real-world problems.
+I build software that does what it's supposed to do, then keeps doing it. The stack changes from one project to the next (backend services, frontend apps, data pipelines, AI agents); the discipline doesn't. Most of my work lives at the seams between systems, where the engineering decisions matter more than any one framework.
 
 ---
 
