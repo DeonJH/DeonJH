@@ -79,7 +79,11 @@ The original automation — n8n + GPT-4o-mini + Google Sheets pipeline. Replaced
 ## Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DeonJH&card_width=800&hide_border=true&background=020202&ring=10b981&fire=10b981&currStreakLabel=10b981&stroke=10b981&sideNums=f9fafb&sideLabels=9ca3af&dates=9ca3af&currStreakNum=f9fafb&border_radius=12" alt="GitHub streak" height="240" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DeonJH&card_width=800&hide_border=true&background=020202&ring=10b981&fire=10b981&currStreakLabel=9ca3af&stroke=10b981&sideNums=f9fafb&sideLabels=9ca3af&dates=9ca3af&currStreakNum=f9fafb&border_radius=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DeonJH&card_width=800&hide_border=true&background=f9fafb&ring=10b981&fire=10b981&currStreakLabel=9ca3af&stroke=10b981&sideNums=111827&sideLabels=9ca3af&dates=9ca3af&currStreakNum=111827&border_radius=12">
+    <img src="https://streak-stats.demolab.com?user=DeonJH&card_width=800&hide_border=true&background=020202&ring=10b981&fire=10b981&currStreakLabel=9ca3af&stroke=10b981&sideNums=f9fafb&sideLabels=9ca3af&dates=9ca3af&currStreakNum=f9fafb&border_radius=12" alt="GitHub streak" />
+  </picture>
 </p>
 
 ---
