@@ -23,35 +23,37 @@ My focus is software that does what it's supposed to do, then keeps doing it. Th
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-059669?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-059669?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-059669?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-059669?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](assets/badges/java.svg)
+![Python](assets/badges/python.svg)
+![TypeScript](assets/badges/typescript.svg)
+![JavaScript](assets/badges/javascript.svg)
 
 **Backend & Data**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-059669?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-059669?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-059669?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-059669?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-059669?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-059669?style=for-the-badge&logo=docker&logoColor=white)
+![Spring Boot](assets/badges/spring-boot.svg)
+![FastAPI](assets/badges/fastapi.svg)
+![PostgreSQL](assets/badges/postgresql.svg)
+![Apache Kafka](assets/badges/apache-kafka.svg)
+![Airflow](assets/badges/airflow.svg)
+![Docker](assets/badges/docker.svg)
 
 **AI & Agents**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-059669?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-059669?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-059669?style=for-the-badge&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-059669?style=for-the-badge&logoColor=white)
+![OpenAI](assets/badges/openai.svg)
+![LangChain](assets/badges/langchain.svg)
+![LangGraph](assets/badges/langgraph.svg)
+![LangSmith](assets/badges/langsmith.svg)
 
 **Automation & Infra**
 
-![n8n](https://img.shields.io/badge/n8n-059669?style=for-the-badge&logo=n8n&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-059669?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-059669?style=for-the-badge&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/React-059669?style=for-the-badge&logo=react&logoColor=white)
+![n8n](assets/badges/n8n.svg)
+![GitHub Actions](assets/badges/github-actions.svg)
+![Vite](assets/badges/vite.svg)
+![React](assets/badges/react.svg)
 
 ---
+
+## Featured projects
 
 ### Ticket Routing System
 Event-driven microservices on Spring Boot 4 + Kafka + Spring AI. LLM-powered classification, skill extraction, and sentiment detection feed a sealed-interface strategy pattern; Kafka Streams handle the routing, with Prometheus / Grafana for observability. JDK 25.
@@ -88,7 +90,7 @@ The original automation — n8n + GPT-4o-mini + Google Sheets pipeline. Replaced
 ## Let's talk
 
 <p>
-  <a href="https://deonhill.dev"><img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/deon-hill"><img src="https://img.shields.io/badge/LinkedIn-059669?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:Contact@deonhill.dev"><img src="https://img.shields.io/badge/Email-059669?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://deonhill.dev"><img src="assets/badges/portfolio.svg" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/deon-hill"><img src="assets/badges/linkedin.svg" alt="LinkedIn"></a>
+  <a href="mailto:Contact@deonhill.dev"><img src="assets/badges/email.svg" alt="Email"></a>
 </p>
